@@ -1,0 +1,17 @@
+{
+  "name": "com.ieseljust.psp.node_multimedia_server",
+  "version": "1.0.0",
+  "description": "An audio server in NodeJS",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1",
+    "expressjs": "^1.0.1",
+    "music-metadata": "^10.6.0"
+  }
+}
